@@ -5,7 +5,7 @@
 # ver. 0.1
 # di Pietro Cornelio / 28-08-2015
 #
-# eseguire lo script in loop ogni 2 secondi col il comando :
+# eseguire lo script in loop ogni 2 secondi col comando :
 # watch -n 2 ./CheckIncomingCall.sh
 # ------------------------------------------------------------------
 echo "-------------------------------------------------------------"
